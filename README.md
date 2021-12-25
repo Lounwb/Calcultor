@@ -1,2 +1,2 @@
 # C_UniTask
-It is a calculator complied by c.
+To record my university tasks
