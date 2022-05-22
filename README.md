@@ -1,2 +1,2 @@
-# C_UniTask
+# Calculator
 To record my university tasks
